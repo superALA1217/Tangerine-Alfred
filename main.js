@@ -45,5 +45,3 @@ client.on('message', message => {
         client.commands.get('kick').execute(message, args);
     }
 });
-
-client.login('ODY0MTcyODUwNzA4MzQ4OTI4.YOxlrw.PsmJUZliin1gkxjkVXztgO67rTI');
